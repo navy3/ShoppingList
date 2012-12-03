@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Bag</string>
+	<string>Bottle</string>
+	<string>Box</string>
+	<string>Bundle</string>
+	<string>Can</string>
+	<string>Canister</string>
+	<string>Carton</string>
+	<string>Case</string>
+	<string>Container</string>
+	<string>Cup</string>
+	<string>Dozen</string>
+	<string>Each</string>
+	<string>Foot</string>
+	<string>Gallon</string>
+	<string>Gram</string>
+	<string>Inch</string>
+	<string>Item</string>
+	<string>Jar</string>
+	<string>Kg</string>
+	<string>Liter</string>
+	<string>Loaf</string>
+	<string>Meter</string>
+	<string>Mg</string>
+	<string>Mm</string>
+	<string>Not set</string>
+	<string>Ounce</string>
+	<string>Pack</string>
+	<string>Piece</string>
+	<string>Pint</string>
+	<string>Pound</string>
+	<string>Quart</string>
+	<string>Roll</string>
+	<string>Sheet</string>
+	<string>Single</string>
+	<string>Tube</string>
+	<string>Unit</string>
+	<string>Yard</string>
+</array>
+</plist>

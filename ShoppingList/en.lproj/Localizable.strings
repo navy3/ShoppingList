@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  ShoppingList
+
+  Created by  on 12-6-20.
+  Copyright (c) 2012年 freelancer. All rights reserved.
+*/
+
+"SL_Tab1_Title" = "Quick";
+"SL_Tab2_Title" = "MyLists";
+"SL_Tab3_Title" = "Templates";
+"SL_Tab4_Title" = "Catalog";
+"SL_Tab5_Title" = "Settings";
+
+"SL_Segment_All" = "All";
+"SL_Segment_Undone" = "Undone";
+"SL_Segment_Done" = "Done";
+
+"SL_Catalog_New" = "New Catalog";
+"SL_Item_New" = "New Item";
+"SL_Item" = "Item";
+
+"SL_Detail_Name" = "Name";
+"SL_Detail_Price" = "Price";
+"SL_Detail_Quantity" = "Quantity";
+
+"SL_Alert_Error" = "input error";
+
+//alertView
+"SL_Alert_Cancel" = "Cancel";
+
+"SL_No_Item" = "No item";
+
+//template
+"SL_Template_New" = "New Template";
+"SL_Settings_Currency" = "Currency";
+
+//quick
+"SL_Quick_Clear" = "Clear";
+
+//actionsheet
+"SL_ActionSheet_Cancel" = "Cancel";
+"SL_ActionSheet_All" = "Clear all items";
+"SL_ActionSheet_Done" = "Clear done items";
+
+"SL_ActionSheet_AddList" = "Add Item";
+"SL_ActionSheet_TempList" = "Add from template list";
+"SL_ActionSheet_NewList" = "Add new Item";
+
+"SN_Item_None" = "None";
+
+//my lists
+"SL_Lists_New" = "New List";
+
+//setting
+"SL_Settings_Number" = "Show Badge Number";
+"SL_Settings_None" = "Don't Display Badge Number";
+"SL_Settings_QuickList" = "Quick List";
+
+"SL_Done_Price" = "Done";
+"SL_Total_Price" = "Total";

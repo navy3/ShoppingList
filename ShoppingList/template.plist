@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Fresh vegetables</string>
+		<array>
+			<string>Asparagus</string>
+			<string>Broccoli</string>
+			<string>Carrots</string>
+			<string>Cauliflower</string>
+			<string>Celery</string>
+			<string>Corn</string>
+			<string>Cucumbers</string>
+			<string>Lettuce</string>
+			<string>Greens</string>
+			<string>Mushrooms</string>
+			<string>Onions</string>
+			<string>Peppers</string>
+			<string>Potatoes</string>
+			<string>Spinach</string>
+			<string>Squash</string>
+			<string>Zucchini</string>
+			<string>Tomatoes</string>
+		</array>
+	</array>
+	<array>
+		<string>Fresh fruits</string>
+		<array>
+			<string>Apples</string>
+			<string>Avocados</string>
+			<string>Bananas</string>
+			<string>Berries</string>
+			<string>Cherries</string>
+			<string>Grapefruit</string>
+			<string>Grapes</string>
+			<string>Kiwis</string>
+			<string>Lemons</string>
+			<string>Limes</string>
+			<string>Melon</string>
+			<string>Nectarines</string>
+			<string>Oranges</string>
+			<string>Peaches</string>
+			<string>Pears</string>
+			<string>Plums</string>
+		</array>
+	</array>
+	<array>
+		<string>Refrigerated items</string>
+		<array>
+			<string>Bagels</string>
+			<string>English muffins</string>
+			<string>Chip dip</string>
+			<string>Eggs</string>
+			<string>Fake eggs</string>
+			<string>Fruit juice</string>
+			<string>Ready-bake breads</string>
+			<string>Tofu</string>
+			<string>Tortillas</string>
+		</array>
+	</array>
+	<array>
+		<string>Frozen</string>
+		<array>
+			<string>Breakfasts</string>
+			<string>Burritos</string>
+			<string>Fish sticks</string>
+			<string>Fries</string>
+			<string>Tater tots</string>
+			<string>Ice cream</string>
+			<string>Juice concentrate</string>
+			<string>Pizzas</string>
+			<string>Popsicles</string>
+			<string>Sorbet</string>
+			<string>TV dinners</string>
+			<string>Vegetables</string>
+			<string>Veggie burgers</string>
+		</array>
+	</array>
+	<array>
+		<string>Condiments</string>
+		<array>
+			<string>BBQ sauce</string>
+			<string>Gravy</string>
+			<string>Honey</string>
+			<string>Hot sauce</string>
+			<string>Jam</string>
+			<string>Jelly</string>
+			<string>Preserves</string>
+			<string>Ketchup</string>
+			<string>Mustard</string>
+			<string>Mayonnaise</string>
+			<string>Pasta sauce</string>
+			<string>Relish</string>
+			<string>Salad dressing</string>
+			<string>Salsa</string>
+			<string>Soy sauce</string>
+			<string>Steak sauce</string>
+			<string>Syrup</string>
+			<string>Worcestershire sauce</string>
+		</array>
+	</array>
+	<array>
+		<string>Various groceries</string>
+		<array>
+			<string>Bouillon cubes</string>
+			<string>Cereal</string>
+			<string>Coffee</string>
+			<string>Filters</string>
+			<string>Instant potatoes</string>
+			<string>Lemon</string>
+			<string>Lime juice</string>
+			<string>Mac &amp; cheese</string>
+			<string>Olive oil</string>
+			<string>Packaged meals</string>
+			<string>Pancake</string>
+			<string>Waffle mix</string>
+			<string>Pasta</string>
+			<string>Peanut butter</string>
+			<string>Pickles</string>
+			<string>Rice</string>
+			<string>Tea</string>
+			<string>Vegetable oil</string>
+			<string>Vinegar</string>
+		</array>
+	</array>
+	<array>
+		<string>Canned foods</string>
+		<array>
+			<string>Applesauce</string>
+			<string>Baked beans</string>
+			<string>Broth</string>
+			<string>Fruit</string>
+			<string>Olives</string>
+			<string>Tinned meats</string>
+			<string>Tuna</string>
+			<string>Chicken</string>
+			<string>Soup</string>
+			<string>Chili</string>
+			<string>Tomatoes</string>
+			<string>Veggies</string>
+		</array>
+	</array>
+	<array>
+		<string>Spices &amp; herbs</string>
+		<array>
+			<string>Basil</string>
+			<string>Black pepper</string>
+			<string>Cilantro</string>
+			<string>Cinnamon</string>
+			<string>Garlic</string>
+			<string>Ginger</string>
+			<string>Mint</string>
+			<string>Oregano</string>
+			<string>Paprika</string>
+			<string>Parsley</string>
+			<string>Red pepper</string>
+			<string>Salt</string>
+			<string>Vanilla extract</string>
+		</array>
+	</array>
+	<array>
+		<string>Dairy</string>
+		<array>
+			<string>Butter</string>
+			<string>Margarine</string>
+			<string>Half &amp; half</string>
+			<string>Heavy cream</string>
+			<string>Milk</string>
+			<string>Sour cream</string>
+			<string>Whipped cream</string>
+			<string>Yogurt</string>
+		</array>
+	</array>
+	<array>
+		<string>Cheese</string>
+		<array>
+			<string>Bleu cheese</string>
+			<string>Cheddar</string>
+			<string>Cottage cheese</string>
+			<string>Cream cheese</string>
+			<string>Feta</string>
+			<string>Goat cheese</string>
+			<string>Mozzarella</string>
+			<string>Parmesan</string>
+			<string>Provolone</string>
+			<string>Ricotta</string>
+			<string>Sandwich slices</string>
+			<string>Swiss</string>
+		</array>
+	</array>
+	<array>
+		<string>Meat</string>
+		<array>
+			<string>Bacon</string>
+			<string>Sausage</string>
+			<string>Beef</string>
+			<string>Chicken</string>
+			<string>Ground beef</string>
+			<string>Turkey</string>
+			<string>Ham</string>
+			<string>Pork</string>
+			<string>Hot dogs</string>
+			<string>Lunchmeat</string>
+			<string>Turkey</string>
+		</array>
+	</array>
+	<array>
+		<string>Seafood</string>
+		<array>
+			<string>Catfish</string>
+			<string>Crab</string>
+			<string>Lobster</string>
+			<string>Mussels</string>
+			<string>Oysters</string>
+			<string>Salmon</string>
+			<string>Shrimp</string>
+			<string>Tilapia</string>
+			<string>Tuna</string>
+		</array>
+	</array>
+	<array>
+		<string>Beverages</string>
+		<array>
+			<string>Beer</string>
+			<string>Club soda</string>
+			<string>Tonic</string>
+			<string>Champagne</string>
+			<string>Gin</string>
+			<string>Juice</string>
+			<string>Mixers</string>
+			<string>Red wine</string>
+			<string>White wine</string>
+			<string>Rum</string>
+			<string>Sake</string>
+			<string>Soda pop</string>
+			<string>Sports drink</string>
+			<string>Whiskey</string>
+			<string>Vodka</string>
+		</array>
+	</array>
+	<array>
+		<string>Baked goods</string>
+		<array>
+			<string>Bagels</string>
+			<string>Croissants</string>
+			<string>Buns</string>
+			<string>Rolls</string>
+			<string>Cake</string>
+			<string>Cookies</string>
+			<string>Donuts</string>
+			<string>Pastries</string>
+			<string>Fresh bread</string>
+			<string>Pie</string>
+			<string>Pita bread</string>
+			<string>Sliced bread</string>
+		</array>
+	</array>
+	<array>
+		<string>Baking</string>
+		<array>
+			<string>Baking powder</string>
+			<string>Soda</string>
+			<string>Bread crumbs</string>
+			<string>Cake</string>
+			<string>Brownie mix</string>
+			<string>Cake icing</string>
+			<string>Decorations</string>
+			<string>Chocolate chips</string>
+			<string>Cocoa</string>
+			<string>Flour</string>
+			<string>Shortening</string>
+			<string>Sugar</string>
+			<string>Sugar substitute</string>
+			<string>Yeast</string>
+		</array>
+	</array>
+	<array>
+		<string>Snacks</string>
+		<array>
+			<string>Candy</string>
+			<string>Gum</string>
+			<string>Cookies</string>
+			<string>Crackers</string>
+			<string>Dried fruit</string>
+			<string>Granola bars</string>
+			<string>Mix</string>
+			<string>Nuts</string>
+			<string>Seeds</string>
+			<string>Oatmeal</string>
+			<string>Popcorn</string>
+			<string>Potato</string>
+			<string>Corn chips</string>
+			<string>Pretzels</string>
+		</array>
+	</array>
+	<array>
+		<string>Themed meals</string>
+		<array>
+			<string>Burger night</string>
+			<string>Chili night</string>
+			<string>Pizza night</string>
+			<string>Spaghetti night</string>
+			<string>Taco night</string>
+			<string>Take-out deli food</string>
+		</array>
+	</array>
+	<array>
+		<string>Baby stuff</string>
+		<array>
+			<string>Baby food</string>
+			<string>Diapers</string>
+			<string>Formula</string>
+			<string>Lotion</string>
+			<string>Baby wash</string>
+			<string>Wipes</string>
+		</array>
+	</array>
+	<array>
+		<string>Pets</string>
+		<array>
+			<string>Cat food</string>
+			<string>Cat litter</string>
+			<string>Dog food</string>
+			<string>Flea treatment</string>
+			<string>Pet shampoo</string>
+		</array>
+	</array>
+	<array>
+		<string>Personal care</string>
+		<array>
+			<string>Antiperspirant</string>
+			<string>Deodorant</string>
+			<string>Bath soap</string>
+			<string>Hand soap</string>
+			<string>Condoms</string>
+			<string>Protection</string>
+			<string>Cosmetics</string>
+			<string>Cotton swabs</string>
+			<string>Balls</string>
+			<string>Facial cleanser</string>
+			<string>Facial tissue</string>
+			<string>Feminine products</string>
+			<string>Floss</string>
+			<string>Hair gel</string>
+			<string>Spray</string>
+			<string>Lip balm</string>
+			<string>Moisturizing lotion</string>
+			<string>Mouthwash</string>
+			<string>Razors</string>
+			<string>Shaving cream</string>
+			<string>Shampoo</string>
+			<string>Conditioner</string>
+			<string>Sunblock</string>
+			<string>Toilet paper</string>
+			<string>Toothpaste</string>
+			<string>Vitamins</string>
+			<string>Supplements</string>
+		</array>
+	</array>
+	<array>
+		<string>Medicine</string>
+		<array>
+			<string>Allergy</string>
+			<string>Antibiotic</string>
+			<string>Antidiarrheal</string>
+			<string>Aspirin</string>
+			<string>Antacid</string>
+			<string>Band-aids</string>
+			<string>Medical</string>
+			<string>Cold</string>
+			<string>Flu</string>
+			<string>Sinus</string>
+			<string>Pain reliever</string>
+			<string>Prescription pick-up</string>
+		</array>
+	</array>
+	<array>
+		<string>Kitchen</string>
+		<array>
+			<string>Aluminum foil</string>
+			<string>Napkins</string>
+			<string>Non-stick spray</string>
+			<string>Paper towels</string>
+			<string>Plastic wrap</string>
+			<string>Sandwich</string>
+			<string>Freezer bags</string>
+			<string>Wax paper</string>
+		</array>
+	</array>
+	<array>
+		<string>Cleaning products</string>
+		<array>
+			<string>Air freshener</string>
+			<string>Bathroom cleaner</string>
+			<string>Bleach</string>
+			<string>Detergent</string>
+			<string>Dish</string>
+			<string>Dishwasher soap</string>
+			<string>Garbage bags</string>
+			<string>Glass cleaner</string>
+			<string>Mop head</string>
+			<string>Vacuum bags</string>
+			<string>Sponges</string>
+			<string>Scrubbers</string>
+		</array>
+	</array>
+	<array>
+		<string>Office supplies</string>
+		<array>
+			<string>CDRs</string>
+			<string>DVDRs</string>
+			<string>Notepad</string>
+			<string>Envelopes</string>
+			<string>Glue</string>
+			<string>Tape</string>
+			<string>Printer paper</string>
+			<string>Pens</string>
+			<string>Pencils</string>
+			<string>Postage stamps</string>
+		</array>
+	</array>
+	<array>
+		<string>Carcinogens</string>
+		<array>
+			<string>Arsenic</string>
+			<string>Asbestos</string>
+			<string>Cigarettes</string>
+			<string>Radionuclides</string>
+			<string>Vinyl chloride</string>
+		</array>
+	</array>
+	<array>
+		<string>Other stuff</string>
+		<array>
+			<string>Automotive</string>
+			<string>Batteries</string>
+			<string>Charcoal</string>
+			<string>Propane</string>
+			<string>Flowers</string>
+			<string>Greeting card</string>
+			<string>Insect repellent</string>
+			<string>Light bulbs</string>
+			<string>Newspaper</string>
+			<string>Magazine</string>
+			<string>Random impulse buy</string>
+		</array>
+	</array>
+</array>
+</plist>

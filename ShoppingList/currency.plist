@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>NAME</key>
+		<string>U.S. Dollar </string>
+		<key>VALUE</key>
+		<string>USD</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Hong Kong Dollar</string>
+		<key>VALUE</key>
+		<string>HKD</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>New Taiwan Dollar </string>
+		<key>VALUE</key>
+		<string>NTD</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Australia Dollar</string>
+		<key>VALUE</key>
+		<string>AUD</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Indonesia Rupiah</string>
+		<key>VALUE</key>
+		<string>IDR</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>New Zealand Dollar </string>
+		<key>VALUE</key>
+		<string>NZD</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Belgium Franc</string>
+		<key>VALUE</key>
+		<string>BEF</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>India Rupee </string>
+		<key>VALUE</key>
+		<string>INR</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Philliphine Peso </string>
+		<key>VALUE</key>
+		<string>PHP</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Brazil CruzeiroR </string>
+		<key>VALUE</key>
+		<string>BRC</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Italy Lira </string>
+		<key>VALUE</key>
+		<string>ITL</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Russia Ruble </string>
+		<key>VALUE</key>
+		<string>RUR</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Canada Dollar </string>
+		<key>VALUE</key>
+		<string>CAD</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Japanese Yen </string>
+		<key>VALUE</key>
+		<string>JPY</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>South Africa Rand </string>
+		<key>VALUE</key>
+		<string>SAR</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Germany Mark </string>
+		<key>VALUE</key>
+		<string>DEM</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Korea Won </string>
+		<key>VALUE</key>
+		<string>KOW</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Sweden Krona </string>
+		<key>VALUE</key>
+		<string>SEK</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Denmark Krone </string>
+		<key>VALUE</key>
+		<string>DMK</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Renminbi Yuan </string>
+		<key>VALUE</key>
+		<string>CNY </string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Singapore Dollar </string>
+		<key>VALUE</key>
+		<string>SGD</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>European Currency Unit </string>
+		<key>VALUE</key>
+		<string>ECU</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Mexico Peso </string>
+		<key>VALUE</key>
+		<string>MEP</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Spain Peseta </string>
+		<key>VALUE</key>
+		<string>SPP</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>France Franc </string>
+		<key>VALUE</key>
+		<string>FRF</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Malaysia Ringgit </string>
+		<key>VALUE</key>
+		<string>MYR</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Switzerland Franc </string>
+		<key>VALUE</key>
+		<string>SWF</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Great Britain Pound </string>
+		<key>VALUE</key>
+		<string>GRP</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Netherland Guilder </string>
+		<key>VALUE</key>
+		<string>NLG</string>
+	</dict>
+	<dict>
+		<key>NAME</key>
+		<string>Thailand Baht</string>
+		<key>VALUE</key>
+		<string>THB</string>
+	</dict>
+</array>
+</plist>

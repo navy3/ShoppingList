@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  ShoppingList
+
+  Created by  on 12-6-20.
+  Copyright (c) 2012年 freelancer. All rights reserved.
+*/
+
+"SL_Tab1_Title" = "当前";
+"SL_Tab2_Title" = "清单";
+"SL_Tab3_Title" = "模板";
+"SL_Tab4_Title" = "分类";
+"SL_Tab5_Title" = "设置";
+
+"SL_Segment_All" = "全部";
+"SL_Segment_Undone" = "未购买";
+"SL_Segment_Done" = "已购买";
+
+"SL_Catalog_New" = "新分类";
+"SL_Item_New" = "新项目";
+"SL_Item" = "项目";
+
+"SL_Detail_Name" = "名称";
+"SL_Detail_Price" = "单价";
+"SL_Detail_Quantity" = "数量";
+
+"SL_Alert_Error" = "输入错误";
+
+//alertView
+"SL_Alert_Cancel" = "取消";
+
+"SL_No_Item" = "无项目";
+
+//template
+"SL_Template_New" = "新模板";
+"SL_Settings_Currency" = "货币符号";
+
+//quick
+"SL_Quick_Clear" = "清空";
+
+//actionsheet
+"SL_ActionSheet_Cancel" = "取消";
+"SL_ActionSheet_All" = "清空所有项目";
+"SL_ActionSheet_Done" = "清空已完成项目";
+
+"SL_ActionSheet_AddList" = "添加项目";
+"SL_ActionSheet_TempList" = "从模板清单添加";
+"SL_ActionSheet_NewList" = "添加新项目";
+
+"SN_Item_None" = "无分类";
+
+//my lists
+"SL_Lists_New" = "新清单";
+
+//setting
+"SL_Settings_Number" = "显示清单数量标示";
+"SL_Settings_None" = "不显示数量标示";
+"SL_Settings_QuickList" = "当前清单";
+
+"SL_Done_Price" = "已购买";
+"SL_Total_Price" = "总共";
